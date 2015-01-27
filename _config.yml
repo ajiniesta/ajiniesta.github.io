@@ -1,0 +1,12 @@
+# Site settings
+title: bloj
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog about things....
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ajiniesta
+github_username:  ajiniesta
+
+# Build settings
+markdown: kramdown
