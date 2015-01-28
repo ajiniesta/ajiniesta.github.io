@@ -2,6 +2,4 @@
 
 Personal blog
 
-With Jekyll tes
-
-With Jekyll test
+View [here](http://ajiniesta.github.io)
