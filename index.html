@@ -9,9 +9,8 @@ layout: default
         {% if site.comments == true and post.comments == true and site.disqus != '' %}
           <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
         {% endif %}
-        <div class="content">
-            {{ post.content }}
-        </div>
+        <article class="excerpt">{{post.excerpt}}</article>
+        <a class="pull-right marginBottom10" href="{{post.url | prepend: site.baseurl }}">Read More</a>
     </div>
 </div>
 {% endfor %}

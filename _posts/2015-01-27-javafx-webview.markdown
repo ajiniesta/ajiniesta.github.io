@@ -3,6 +3,7 @@ layout: post
 title:  "JavaFX WebView"
 date:   2015-01-27 23:04:20
 categories: javafx java
+comments: true
 ---
 
 For my first post, I just find out the tak to include the gist directly in the jekyll post. So I decided to look into my few gists, and I find this one. 
