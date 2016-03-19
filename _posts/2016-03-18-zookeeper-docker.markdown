@@ -6,6 +6,7 @@ categories: docker zookeeper
 comments: true
 ---
 ![Docker Alpine Zookeeper]({{site.url}}/images/daz.png)
+
 I've been playing around a while with docker. And I started a personal project, to interact with Zookeeper from a desktop application. So I finally decide use one of this images and start programing using a dockerized image.
 
 Then, soon I realized the image of a container with Ubuntu, to run just one service, like zookeeper, was pretty nice. So I decide, to go for Alpine Linux, a lightweight distribution.
